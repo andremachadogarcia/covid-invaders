@@ -25,12 +25,12 @@
   
     // Text
     var blocks = [
-      [3, 4, 8, 9, 10, 15, 16],
-      [2, 4, 7, 11, 14, 16],
-      [1, 4, 7, 11, 13, 16],
-      [1, 2, 3, 4, 5, 7, 11, 13, 14, 15, 16, 17],
-      [4, 7, 11, 16],
-      [4, 8, 9, 10, 16]
+      [1,2,3,5,6,7,8,10,14,16,18,19],
+      [1,5,8,10,14,18,20],
+      [1,5,8,10,14,16,18,21],
+      [1,5,8,10,14,16,18,21],
+      [1,5,8,11,13,16,18,20],
+      [1,2,3,5,6,7,8,12,16,18]
     ];
   
     // Game Controller
@@ -112,7 +112,7 @@
           screen.font = "55px Lucida Console";
           screen.textAlign = "center";
           screen.fillStyle = "white";
-          screen.fillText("You lost", gameSize.width / 2, gameSize.height / 2);
+          screen.fillText("Go to your quarantine!", gameSize.width / 2, gameSize.height / 2);
           screen.font = "20px Lucida Console";
           screen.fillText("Points: " + kills, gameSize.width / 2, gameSize.height / 2 + 30);
   
@@ -145,7 +145,7 @@
   
     };
   
-    // Invaders
+    // Covids
     // --------
     var Invader = function(coordinates) {
       this.active = true;
@@ -388,7 +388,7 @@
   
       };
       invaderAsset.src = "//stillh.art/project/spaceInvaders/invader.gif";
-  
+  //virus-image
     });
   
     window.addEventListener('resize', function() {
