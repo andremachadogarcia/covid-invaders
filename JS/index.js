@@ -10,7 +10,7 @@
     // Assets
     var invaderCanvas,
       invaderMultiplier,
-      invaderSize = 20,
+      invaderSize = 15,
       initialOffsetInvader,
       invaderAttackRate,
       invaderSpeed,
@@ -30,7 +30,7 @@
       [1,5,8,10,14,16,18,21],
       [1,5,8,10,14,16,18,21],
       [1,5,8,11,13,16,18,20],
-      [1,2,3,5,6,7,8,12,16,18,20]
+      [1,2,3,5,6,7,8,12,16,18,2]
     ];
   
     // Game Controller
