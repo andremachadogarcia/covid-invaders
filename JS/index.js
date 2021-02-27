@@ -10,7 +10,7 @@
     // Assets
     var invaderCanvas,
       invaderMultiplier,
-      invaderSize = 18,
+      invaderSize = 17,
       initialOffsetInvader,
       invaderAttackRate,
       invaderSpeed,
