@@ -1,16 +1,16 @@
-##COVID INVADERS
+## COVID INVADERS
 
 Escolha um nome autoexplicativo para o seu projeto.
 
-#Descrição
+# Descrição
 
 Deixe as pessoas saberem o que seu projeto pode fazer especificamente. Forneça contexto e adicione um link para qualquer visitante de referência pode não estar familiarizado. Uma lista de recursos ou um A fundo subseção de também pode ser adicionada aqui. Se existem alternativas para o seu projeto, este é um bom lugar para listar os fatores de diferenciação.
 
-#Distintivos
+# Distintivos
 
 Em alguns READMEs, você pode ver pequenas imagens que transmitem metadados, como se todos os testes estão passando ou não para o projeto. Você pode usar Escudos para adicionar alguns ao seu LEIA-ME. Muitos serviços também têm instruções para adicionar um distintivo.
 
-#Visuals
+# Visuals
 
 Dependendo do que você está fazendo, pode ser uma boa ideia incluem capturas de tela ou até mesmo um vídeo (você frequentemente verá GIFs em vez de vídeos reais). Ferramentas como ttygif pode ajuda, mas verifique Asciinema para mais método sofisticado.
 Instalação
